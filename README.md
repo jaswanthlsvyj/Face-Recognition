@@ -6,9 +6,9 @@ This project implements real-time face recognition using OpenCV and a pre-traine
 
 ## Key Features
 
-Real-Time Processing: The application continuously analyzes the webcam feed, enabling immediate face detection and recognition.
-OpenCV Integration: OpenCV provides essential image processing functionalities, including face detection, frame capture, and image manipulation.
-Classification Model: A pre-trained face recognition model is employed to classify detected faces, identifying known individuals.
+* Real-Time Processing: The application continuously analyzes the webcam feed, enabling immediate face detection and recognition.
+* OpenCV Integration: OpenCV provides essential image processing functionalities, including face detection, frame capture, and image manipulation.
+*  Classification Model: A pre-trained face recognition model is employed to classify detected faces, identifying known individuals.
 Customizability: The project can be adapted to incorporate different classification models or datasets for improved performance.
 
 
