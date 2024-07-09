@@ -6,24 +6,25 @@ This project implements real-time face recognition using OpenCV and a pre-traine
 
 ## Key Features
 
-* Real-Time Processing: The application continuously analyzes the webcam feed, enabling immediate face detection and recognition.
-* OpenCV Integration: OpenCV provides essential image processing functionalities, including face detection, frame capture, and image manipulation.
+*  Real-Time Processing: The application continuously analyzes the webcam feed, enabling immediate face detection and recognition.
+*  OpenCV Integration: OpenCV provides essential image processing functionalities, including face detection, frame capture, and image manipulation.
 *  Classification Model: A pre-trained face recognition model is employed to classify detected faces, identifying known individuals.
-Customizability: The project can be adapted to incorporate different classification models or datasets for improved performance.
+*  Customizability: The project can be adapted to incorporate different classification models or datasets for improved performance.
 
 
 ## Technical Stack
 
-Python (programming language)
-OpenCV (computer vision library)
-Classification Model (OpenCV's Haar cascade classifiers)
+*  Python (programming language)
+
+*  OpenCV (computer vision library)
+*  Classification Model (OpenCV's Haar cascade classifiers)
 
 
 ## Project Structure
 
-main.py: Core script for initializing the camera, face detection, recognition, and displaying results.
-data/: Directory containing the pre-trained classification model files (if applicable).
-images/ (Optional): Directory for storing known face images used for training the model (if applicable).
+*  main.py: Core script for initializing the camera, face detection, recognition, and displaying results.
+*  data/: Directory containing the pre-trained classification model files (if applicable).
+*  images/ (Optional): Directory for storing known face images used for training the model (if applicable).
 
 
 ## Workflow
