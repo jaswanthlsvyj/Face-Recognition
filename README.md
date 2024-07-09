@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6673ac808d5a2332fb56cf31c1c2fa6efe40c9f2f80cd7c046618a1c0d8d5bd4
-size 614
+# Face Recognition App
+
+This project is a Streamlit-based web application for face recognition. It allows users to add new face data, automatically train a KNN model with the collected data, recognize faces in real-time using a webcam, and view the stored dataset.
+
+## Features
+
+- **Home**: Welcome page of the application.
+- **Add New User**: Capture images of a new user and store the data.
+- **Recognize Faces**: Recognize faces in real-time using a webcam.
+- **View Dataset**: View all the faces stored in the dataset.
+
+## Installation
+
+### Prerequisites
+
+- Python 3.6 or above
+- pip (Python package installer)
